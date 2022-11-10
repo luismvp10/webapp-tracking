@@ -1,0 +1,60 @@
+{
+  "COMMON": {
+    "DELIVERY_ADDRESS": "Dirección de entrega",
+    "DELIVERY_MAN": "Repartidor",
+    "GUIDE_NUMBER": "No de guía",
+    "NOT_AVAILABLE": "No disponible",
+    "ORDER": "Orden",
+    "RECIPIENT": "Destinatario",
+    "RECIPIENT_DATA": "Datos del destinatario",
+    "SEARCHING_ORDER": "Buscando orden...",
+    "SENDER": "Remitente",
+    "SENDER_DATA": "Datos del remitente",
+    "STATUS": "Estatus",
+    "TRACK_YOUR_ORDER": "Rastrea tu orden",
+    "ORDER_TRACKING": "Rastreo de orden",
+    "ORDER_NOT_FOUND": "No se encontró el código de orden. Verifica que sea el correcto",
+    "ERROR_COPY_CLIPBOARD": "No fue posible copiar el texto!",
+    "SUCCESS_COPY_CLIPBOARD": "Texto copiado correctamente!"
+  },
+  "FOOTER": {
+    "PRIVACY_POLICY": "Política de privacidad",
+    "TERMS_AND_CONDITIONS": "Términos y condiciones"
+  },
+  "HOME": {
+    "TRACK": "Rastrear",
+    "WELCOME": "Introduce tu número de guía"
+  },
+  "NAVBAR": {
+    "CONTACT_US": "¡Hablemos!",
+    "OUR_SOLUTIONS": "Nuestras soluciones",
+    "WHO_WE_ARE": "Quiénes somos",
+    "ORDER_TRACKING": "Rastreo de orden"
+  },
+  "ORDER_STATES": {
+    "ARRIVAL_SCAN": "Paquete recolectado",
+    "AT_DROPOFF": "En punto de entrega",
+    "AT_PICKUP": "En punto de recolección",
+    "AWAITING_ROUTING": "En espera de enrutamiento",
+    "CANCELLED": "Cancelado",
+    "CREATED": "Orden creada",
+    "DELIVERED": "Paquete entregado",
+    "DELIVERY_ATTEMPTED": "Tu orden no pudo entregarse en tu domicilio",
+    "EN_ROUTE_TO_DROPOFF": "Paquete por llegar",
+    "EN_ROUTE_TO_PICKUP": "En ruta para recolectar",
+    "FAILED": "Entrega Fallida",
+    "MATCHED": "Asignado",
+    "OUT_FOR_DELIVERY": "Paquete en tránsito",
+    "PICKUP_ENDED": "Recolección finalizada",
+    "RETURNED_TO_WAREHOUSE": "Devuelto al almacén",
+    "SCHEDULED": "Programado",
+    "SUCCESSFUL": "Entregado"
+  },
+  "MAP_ORDER_STATES": {
+    "ARRIVAL_SCAN": "Cuando la orden esté en tu zona de entrega, podrás visualizar su llegada.",
+    "DELIVERED": "Tu orden ha sido entregada con éxito",
+    "EN_ROUTE_TO_DROPOFF": "Cuando la orden esté en tu zona de entrega, podrás visualizar su llegada.  ",
+    "FAILED": "Orden falllida",
+    "OUT_FOR_DELIVERY": "En ruta de entrega"
+  }
+}

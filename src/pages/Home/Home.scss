@@ -1,0 +1,23 @@
+@import "mixins/breakpoints.scss";
+
+.home__container {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-image: url("/images/home/box.png");
+}
+
+.search__order {
+  height: 33.33%;
+  width: 100%;
+}
+
+@include mobile {
+  .home__container {
+    background-size: contain;
+    .search__order {
+      height: 75%;
+    }
+  }
+}

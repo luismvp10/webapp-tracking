@@ -1,0 +1,10 @@
+.delivery__info__container {
+  .delivery__info__item--flex {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    word-break: break-all;
+  }
+  .delivery__info__item {
+    border-bottom: 1px solid #d9d9d6;
+  }
+}

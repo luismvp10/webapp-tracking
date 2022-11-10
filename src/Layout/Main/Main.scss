@@ -1,0 +1,14 @@
+@import "mixins/breakpoints.scss";
+
+.layout__container {
+  $main-height: calc(var(--tracking-navbar-height) + 10px);
+  height: calc(100vh - $main-height);
+  background: #f7f7f8;
+}
+
+/* @include mobile {
+  .layout__container {
+    height: auto;
+  }
+}
+ */

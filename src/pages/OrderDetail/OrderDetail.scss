@@ -1,0 +1,39 @@
+.order__container {
+  display: grid;
+  grid-template-columns: 30% 60%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 30px;
+  grid-gap: 30px;
+  max-width: 1024px;
+  // background-color: #f6f7f7;
+  // padding: 10px;
+  //height: calc(100vh - var(--tracking-navbar-height));
+}
+
+.delivery__info {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  width: 100%;
+  margin: 0 10% 0 10%;
+}
+
+.delivery__title {
+  font-weight: 600;
+}
+
+.delivery__cards {
+  display: grid;
+  grid-template-columns: 40% calc(60% - 20px);
+  grid-gap: 20px;
+  width: 100%;
+}
+
+// Mobile styles
+.order__container__mobile {
+  background: #f6f7f7;
+  padding: 10px;
+}
